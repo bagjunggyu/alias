@@ -2,7 +2,7 @@ alias
 =====
 # 터미널에서 자주 쓰이는 명령어 몇가지를 한글로 지정해주었습니다.
 # 다운 받아서 압축을 푸시면 .bash_aliases 가 들어 있습니다.
-# 숨김 파일이라서 Ctrl + h 하시면 보입니다.(KDE 는 ALt + .)
+# 숨김 파일이라서 Ctrl + h 하시면 보입니다.(KDE 는 Alt + .)
 # Debian , Ubuntu(Relatives), elementary OS 는  ~/.bash_aliases 로 저장하시구요
 # Linux Mint 는 ~/.bashrc 도 저장하세요
 # 기본 문서도구로 gedit 를 지정했습니다. 사용하시는 DE(Desktop Environment)에 따라 바꿔쓰세요
