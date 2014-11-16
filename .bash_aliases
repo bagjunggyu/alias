@@ -1,6 +1,6 @@
 # 터미널에서 자주 쓰이는 명령어 몇가지를 한글로 지정해주었습니다.
 # Debian ,Ubuntu(Relatives), elementary OS 는  ~/.bash_aliases 로 저장하시구요,
-# Linux Mint 는 ~/.bashrc 도 저장하세요.
+# Linux Mint 는 ~/.bashrc 로저장하세요.
 # 기본 문서도구로 gedit 를 지정했습니다. 사용하시는 도구로 바꿔쓰세요.
 # Debian 은 마지막의 sudo shutdown -P 를 sudo shutdown -hP 로 이용합니다.
 alias update='sudo apt-get update'
