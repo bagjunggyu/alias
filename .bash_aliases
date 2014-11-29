@@ -4,7 +4,8 @@
 # 기본 문서도구로 gedit 를 지정했습니다. 사용하시는 도구로 바꿔쓰세요.
 # Debian 은 마지막의 sudo shutdown -P 를 sudo shutdown -hP 로 이용합니다.
 alias update='sudo apt-get update'
-# alias install='sudo apt-get install -y'
+# install 명령어는 이미 사용되고 있는 명령어 입니다.그 명령어 대신 이용하실 경우에만 이대로 적용하세요
+alias install='sudo apt-get install -y'
 alias remove='sudo apt-get remove -y'
 alias purge='sudo apt-get purge -y'
 alias upgrade='sudo apt-get upgrade -y'
@@ -13,8 +14,10 @@ alias autoremove='sudo apt-get autoremove -y'
 alias autoclean='sudo apt-get autoclean '
 alias clean='sudo apt-get clean'
 alias search='sudo apt-cache search'
-# alias sg='sudo gedit'
-alias ren='sudo mv -rf'
+# sg 명령어는 이미 사용되고 있는 명령어 입니다.그 명령어 대신 이용하실 경우에만 이대로 적용하세요
+alias sg='sudo gedit'
+# rename 명령어는 이미 사용되고 있는 명령어 입니다.그 명령어 대신 이용하실 경우에만 이대로 적용하세요
+alias rename='sudo mv -rf'
 alias move='sudo mv -rf'
 alias del='sudo rm -rf'
 alias copy='sudo cp -rf'
@@ -48,6 +51,7 @@ alias 추가-='sudo add-apt-repository --remove -y'
 alias 수지='sudo gedit'
 alias 닫기='exit'
 alias 청소='clear'
+# grub 는 이미 존재하는 패키지 이름입니다.그 대신 이용하실 경우에만 이대로 적용하세요
 alias burg='sudo gedit /boot/burg/burg.cfg'
 alias BURG='sudo gedit /boot/burg/burg.cfg'
 alias grub='sudo gedit /boot/grub/grub.cfg'
