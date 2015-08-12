@@ -33,4 +33,4 @@ alias dist-upgrade='sudo apt-get update;sudo apt-get dist-upgrade -y'
 alias search='sudo apt-cache search'
 alias autoremove='sudo apt-get autoremove --purge -y'
 alias autoclean='sudo apt-get autoclean -y'
-
+alias Rma='sudo shutdown -hP'
