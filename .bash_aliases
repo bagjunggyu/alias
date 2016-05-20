@@ -46,6 +46,7 @@ alias clean='sudo apt-get clean -y'
 alias autoclean='sudo apt-get autoclean -y'
 alias Rma='sudo shutdown -hP'
 alias ektl='sudo reboot'
+### 아래는 제가 burg를 쉽게 관리하고, elementary OS의 번역 상태를 점검하기 위해 이용하는 것입니다.
 #alias pe='python3 translationcheck.py  -el Korean'
 #alias grub='sudo nano /boot/grub/grub.cfg'
 #alias burg='sudo nano /boot/burg/burg.cfg'
