@@ -3,7 +3,7 @@
 ##### 숨김 파일이라서 Ctrl + h 하면 보입니다.(KDE 는 Alt + .)
 ##### 또는, 아래 명령문을 터미널에 차례대로 입력하시거나, 붙여 넣으세요.
 #####cd && wget https://github.com/bagjunggyu/alias/archive/master.zip
-#####unzip master.zip && mv ~/alias-master/.bash_aliases .&& rm master.zip && rm -r ~/alias-master
+#####unzip master.zip && mv ~/alias-master/.bash_aliases . && rm master.zip && rm -r ~/alias-master
 #####exit
 ##### 끔 다음에는 한 칸 띄고 숫자를 입력합니다. 숫자는 분을 의미합니다. 지금 바로 끌 때는 0 입니다.
 ##### GNU 라이선스를 따릅니다
